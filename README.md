@@ -1,4 +1,4 @@
-# Hello, my name is Décio, and welcome to my GitHub 😊
+# Hello, my name is Décio and welcome to my GitHub 😊
 
 <div align="">
   <a href="https://github.com/dgnnj">
