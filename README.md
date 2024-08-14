@@ -51,6 +51,6 @@ I'm dgnnj, a Ethical Hacker and Junior Cybersecurity Analyst. I'm on my way to b
 
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgnnj&theme=vision-friendly-dark)](https://github.com/dgnnj/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=dgnnj&theme=dark&card_width=450)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/dgnnj/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinsp&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
+ <p align="left"><a href="https://github.com/dgnnj/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgnnj&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
 
 <br><br>
