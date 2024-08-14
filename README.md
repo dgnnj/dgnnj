@@ -24,7 +24,7 @@ I'm dgnnj, a Ethical Hacker and Junior Cybersecurity Analyst. I'm on my way to b
 - I have experience in Data Analyst, Network and Bug Hunting
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** from cybersecurity
-- Reach me out at **quwaen@proton.me**
+- Reach me out at **dgnnj@proton.me**
 
 </details>
 <br>
