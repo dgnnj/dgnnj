@@ -16,11 +16,11 @@ Atualmente estudando **Docker, Kubernetes, Terraform e práticas de DevOps** par
 
 ✔️ **Cloud Computing**: AWS | Azure (Estudando)
 
-✔️ **Infraestrutura como Código**: Terraform | Ansible (Estudando)
+✔️ **Infraestrutura como Código**: Terraform
 
 ✔️ **Containerização**: Docker | Kubernetes (Estudando)
 
-✔️ **CI/CD Pipelines**: GitHub Actions | GitLab CI/CD
+✔️ **CI/CD Pipelines**: Jenkins | GitHub Actions | GitLab CI/CD
 
 ✔️ **Automação & Scripting**: Bash | Python
 
