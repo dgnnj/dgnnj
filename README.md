@@ -28,15 +28,4 @@ Atualmente estudando **Docker, Kubernetes, Terraform e práticas de DevOps** par
 
 ---
 
-## 📂 Projetos  
-
-🚀 *Ainda construindo projetos para demonstrar minhas habilidades. Em breve, mais novidades aqui!*  
-
-🔹 [**Projeto 1: Em breve!**]()  
-🔹 [**Projeto 2: Em breve!**]()  
-
-📌 Estou planejando criar projetos práticos com **CI/CD, Kubernetes e Terraform**. Se tiver sugestões ou quiser colaborar, entre em contato!  
-
----
-
 📌 *Esse README será atualizado conforme eu evoluo na área de DevOps!* 🚀
