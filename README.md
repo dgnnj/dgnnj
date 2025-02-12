@@ -1,31 +1,45 @@
 # 🛠️ Décio Gonçalves Junior | DevOps Enthusiast 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/d%C3%A9cio-gon%C3%A7alves-b674881a3/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?logo=github)](https://github.com/dgnnj)  
-[![Email](https://img.shields.io/badge/Email-Contato-red?logo=gmail)](deciogoncalvesjr@hotmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/d%C3%A9cio-gon%C3%A7alves-b674881a3/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/dgnnj) [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:deciogoncalvesjr@hotmail.com)  
 
-## 🔹 Sobre Mim  
+## 🔹 About Me  
 
-Olá! Sou um entusiasta da área de **DevOps e Cloud Computing** que está iniciando a jornada para se tornar um **DevOps Engineer**. Atualmente, estou focado em aprender e aplicar conceitos como **CI/CD, automação, infraestrutura como código (IaC) e conteinerização**.
+Hello! I'm a **DevOps and Cloud Computing enthusiast** on a journey to become a **DevOps Engineer**. Currently, I'm focused on learning and applying concepts such as **CI/CD, automation, Infrastructure as Code (IaC), and containerization**.
 
-Atualmente estudando **Docker, Kubernetes, Terraform e práticas de DevOps** para criar ambientes escaláveis e confiáveis. 🚀
+I'm currently studying **Docker, Kubernetes, Terraform, and DevOps best practices** to build scalable and reliable environments. 🚀
 
 ---
 
-## 🚀 Habilidades em Desenvolvimento
+## 🚀 Skills in Development
 
-✔️ **Cloud Computing**: AWS | Azure (Estudando)
+✔️ **Cloud Computing**: AWS | Azure (Studying)
 
-✔️ **Infraestrutura como Código**: Terraform
+✔️ **Infrastructure as Code**: Terraform
 
-✔️ **Containerização**: Docker | Kubernetes (Estudando)
+✔️ **Containerization**: Docker | Kubernetes (Studying)
 
 ✔️ **CI/CD Pipelines**: Jenkins | GitHub Actions | GitLab CI/CD
 
-✔️ **Automação & Scripting**: Bash | Python
+✔️ **Automation & Scripting**: Bash | Python
 
-✔️ **Versionamento**: Git | GitHub
+✔️ **Version Control**: Git | GitHub
 
 ---
 
-📌 *Esse README será atualizado conforme eu evoluo na área de DevOps!* 🚀
+## 🛠️ Projects
+
+Here are some of the projects I'm working on or have completed:
+
+- **[DevOps Tools Installer](https://github.com/dgnnj/devops-tools)**: A Bash script to automate the installation of essential DevOps tools on Debian/Ubuntu systems.
+- **[Terraform AWS Infrastructure](https://github.com/dgnnj/terraform-eks)**: A Terraform project to deploy scalable infrastructure on AWS.
+
+---
+
+## 🎯 Goals
+
+- **Short-term**: Gain hands-on experience with Kubernetes and Terraform.
+- **Long-term**: Become a certified DevOps Engineer and contribute to open-source projects.
+
+---
+
+📌 *This README will be updated as I progress in my DevOps journey!* 🚀
